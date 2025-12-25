@@ -1,0 +1,5 @@
+{
+  "name": "AI 智能试卷生成器",
+  "description": "上传现有试卷（文本或图片），利用 Google Gemini 分析风格与难度，一键生成全新的定制化试卷和答案解析。",
+  "requestFramePermissions": []
+}
